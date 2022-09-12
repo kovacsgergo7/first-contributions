@@ -667,7 +667,7 @@ p3tun1a
 - [Mahdi Razi] (https://github.com/mahdirazi65)
 - [Nikita Kocherinskiy](https://github.com/nikitakocherinskiy)
 - [Terri Iwata]
-- [Gergő Kovács] (https://github.com/kovacsgergo7)
+- [Gergő Kovács](https://github.com/kovacsgergo7)
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
